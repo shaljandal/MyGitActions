@@ -1,1 +1,1 @@
-# MyGitActions
+# mygitactions
